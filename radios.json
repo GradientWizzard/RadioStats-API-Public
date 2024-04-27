@@ -378,5 +378,25 @@
             "listeners": null,
             "listeners_data": "listeners"
         }
-    }
+    },
+	{
+        "id": 19,
+        "name": "NoNameRadio",
+        "shortcode": "NoNameRadio",
+        "aliases": ["nnr"],
+        "stream": "https://radiopanel.nonameradio.co.uk/listen/nonameradio/radio.mp3",
+        "website": "https://nonameradio.co.uk",
+        "logo": "https://nonameradio.co.uk/assets/images/logoIcon/logo.png",
+        "hex": "#808080",
+        "api": {
+            "url": "http://radiopanel.nonameradio.co.uk/api/nowplaying/3",
+            "song": "song",
+            "song_title": "title",
+            "song_artist": "artist",
+            "dj": "dj",
+            "dj_name": "name",
+            "listeners": null,
+            "listeners_data": "listeners"
+        }
+    },
 ]
